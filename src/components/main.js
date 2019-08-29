@@ -20,6 +20,7 @@ import RecordBook from './recordbook';
 import Media from './media';
 
 import SOS2019 from './media/2019/sos2019';
+import Review2018 from './media/2019/review2018';
 
 
 const Main = () => (
@@ -42,6 +43,7 @@ const Main = () => (
         <Route exact path="/scott&james" component={Scott} />
 
         <Route exact path="/sos2019" component={SOS2019} />
+        <Route exact path="/review2018" component={Review2018} />
     </Switch>
 )
 
