@@ -8,8 +8,19 @@ class Media extends Component {
         return(
             <div style={{width: '80%', margin: 'auto'}}>
                 <Grid>
+                <Cell col={4}>
+                    <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
+                            <CardTitle expand style={{color: '#fff', background: '#FFABAB'}}>2019 Predictions</CardTitle>
+                            <CardText>
+                                Published on Wednesday, September 4th
+                            </CardText>
+                            <CardActions border>
+                                <Button href="/predictions2019" colored>Read the predictions article</Button>
+                            </CardActions>
+                    </Card>
+                    </Cell>
                     <Cell col={4}>
-                        <Card shadow={3} style={{width: '320px', height: '320px', margin: 'auto'}}>
+                        <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
                             <CardTitle expand style={{color: 'black', background: '#46B6AC'}}>Reviewing the 2018 Season</CardTitle>
                             <CardText>
                                Published on Thursday, August 29th
@@ -27,17 +38,6 @@ class Media extends Component {
                             </CardText>
                             <CardActions border>
                                 <Button href="/sos2019" colored>Read sos article</Button>
-                            </CardActions>
-                    </Card>
-                    </Cell>
-                    <Cell col={4}>
-                    <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
-                            <CardTitle expand style={{color: '#fff', background: '#FFABAB'}}>Coming soon</CardTitle>
-                            <CardText>
-  
-                            </CardText>
-                            <CardActions border>
-                                <Button colored></Button>
                             </CardActions>
                     </Card>
                     </Cell>
