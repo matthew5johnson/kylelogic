@@ -119,7 +119,7 @@ These probably aren’t the first two franchises that you think of if basing pre
 <h4>5th Place Game</h4>
 <h5>Doug vs Scott & James</h5>
 <p>
-Two of the last three Sackos have bounced back to make the playoffs in the following year. This is good news for Scott & James. TPC is performing very well during the Modern Era though. They’re only three years removed from a championship game appearance and have another top 5 finish tossed in there as well. The Doug franchise has been the biggest heavy weight of the Modern Era, stacking consecutive League Titles and championship game appearances in 3 of the past 4 years. A 5th place finish might seem like a down season for Doug, but it qualifies him for a coveted spot in next year’s MWM Stage. While it doesn’t wipe away their freshly acquired Sacko, Scott & James shouldn’t be disappointed with their third top-5 finish in 5 seasons.
+Two of the last three Sackos have bounced back to make the playoffs in the following year. This is good news for Scott & James. TPC is performing very well during the Modern Era though. They’re only three years removed from a championship game appearance and have another top 5 finish tossed in there as well. The Doug franchise has been the biggest heavy weight of the Modern Era, stacking consecutive League Titles and championship game appearances in 3 of the past 4 years. A 5th place finish might seem like a down season for Doug, but it qualifies him for a coveted spot in next year’s MWM Stage. While it doesn’t wipe away their freshly acquired Sacko, Scott & James shouldn’t be disappointed with their third top-6 finish in 5 seasons.
 </p>
 
 <br></br>

@@ -86,7 +86,7 @@ Mitch put up a Golden Season that year. A Golden Season occurs when a franchise 
 This is what fantasy looks like in god-mode. It was such a comprehensively dominant performance that it got Mitch to a then-record 12 wins. His juggernaut of a roster put up an astounding 143.45 regular season PPG, and finished strong in the playoffs to bring his final scoring average to 145.12 PPG diamond status, which stood as the only season scoring average above 138.
 </p>
 <p>
-For more than half a decade, the two closest contenders to Mitch’s impossible record of 145.12 PPG (2011) were RTRO’s 137.95 PPG (2011), ZJ’s 137.29 PPG (2014), and Kmish’s 135.02 (2012). Nobody was even coming close to 138 PPG in more recent years, much less the outlandish 140+ PPG diamond that had only been accomplished by Mitch’s cunning in ‘11.
+For more than half a decade, the three closest contenders to Mitch’s impossible record of 145.12 PPG (2011) were RTRO’s 137.95 PPG (2011), ZJ’s 137.29 PPG (2014), and Kmish’s 135.02 (2012). Nobody was even coming close to 138 PPG in more recent years, much less the outlandish 140+ PPG diamond that had only been accomplished by Mitch’s cunning in ‘11.
 </p>
 <p>
 Then came the Doug franchise in 2017. Let’s have a look back at how Doug’s 2017 season was summed up in last year’s review article: 
