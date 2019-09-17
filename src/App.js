@@ -15,12 +15,14 @@ function App() {
       <Header href="/" className="header-color" title="The Crew Fantasy" scroll>
         <Navigation>
           <Link to="/">Home</Link>
+          <Link to="/competitions">Competitions</Link>
           <Link to="/media">Media</Link>
         </Navigation>
       </Header>
       <Drawer title="The Crew Fantasy">
         <Navigation>
           <a href="/">Home</a>
+          <a href="/competitions">Competitions</a>
           <a href="/media">Media</a>
         </Navigation>
       </Drawer>
@@ -34,6 +36,7 @@ function App() {
         <FooterSection type="left" logo="The Crew Fantasy">
           <FooterLinkList>
             <a href="/">Home</a>
+            <a href="/competitions">Competitions</a>
             <a href="/media">Media</a>
           </FooterLinkList>
         </FooterSection>

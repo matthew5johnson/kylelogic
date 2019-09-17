@@ -84,11 +84,41 @@ img {
 .franchise-links i {
   padding-left: 3px;
 }
-
+.comps {
+  font-size: 30px;
+  text-align: left;
+  font-family: "Lora";
+}
+.comps a {
+  color:black;
+}
 .demo-tabs {
   align: center;
 }
 
+.competitions {
+  align: center;
+  text-align: center;
+}
+.competitions h1 {
+  font-family: 'Lora', serif;
+  text-decoration: none;
+}
+.competitions #complink {
+  font-family: 'Lora', serif;
+  text-decoration: none;
+  color: black;
+}
+.competitions #icons {
+  font-size: 1000%;
+}
+.competitions .history {
+  text-align: left;
+  font-weight: bold;
+}
+.marathon {
+  text-align: left;
+}
 /* .App {
   text-align: center;
 }

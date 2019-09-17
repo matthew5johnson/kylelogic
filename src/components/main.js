@@ -19,6 +19,12 @@ import MWM from './mwm';
 import RecordBook from './recordbook';
 import Media from './media';
 
+import Comps from './competitions/comps';
+import Playoffs from './competitions/playoffs';
+import Marathon from './competitions/marathon';
+import Cup from './competitions/leaguecup';
+import Shield from './competitions/communityshield';
+
 import SOS2019 from './media/2019/sos2019';
 import Review2018 from './media/2019/review2018';
 import Predictions2019 from './media/2019/predictions2019';
@@ -44,6 +50,12 @@ const Main = () => (
         <Route exact path="/nick&mickey" component={Nick} />
         <Route exact path="/rtro" component={Rtro} />
         <Route exact path="/scott&james" component={Scott} />
+
+        <Route exact path="/competitions" component={Comps} />
+        <Route exact path="/playoffs" component={Playoffs} />
+        <Route exact path="/marathon" component={Marathon} />
+        <Route exact path="/leaguecup" component={Cup} />
+        <Route exact path="/communityshield" component={Shield} />
 
         <Route exact path="/sos2019" component={SOS2019} />
         <Route exact path="/review2018" component={Review2018} />
