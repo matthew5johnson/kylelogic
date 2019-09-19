@@ -10,6 +10,17 @@ class Media extends Component {
             <Grid>
                 <Cell col={4}>
                     <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
+                            <CardTitle expand style={{color: '#fff', background: '#C5A3FF'}}>Week 3</CardTitle>
+                            <CardText>
+                                Published on Thursday, September 19
+                            </CardText>
+                            <CardActions border>
+                                <Button href="/2019/week3" colored>Read it</Button>
+                            </CardActions>
+                    </Card>
+                    </Cell>
+                <Cell col={4}>
+                    <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
                             <CardTitle expand style={{color: '#fff', background: '#FFABAB'}}>Kommish Draft Grades</CardTitle>
                             <CardText>
                                 Published on Thursday, September 5th
@@ -29,17 +40,6 @@ class Media extends Component {
                                 <Button href="https://drive.google.com/file/d/1JLD7FOovsOMG9zJWF-Im-a45_yr8ID0F/view?fbclid=IwAR2lhAbW8ge4y3g0wUUJ9EGT8wWAwtHNJR5bTB9jJMNrRMOJG7L5Cuz10zs" colored>Listen to CrewCast episode #1</Button>
                             </CardActions>
                         </Card>
-                    </Cell>
-                    <Cell col={4}>
-                    <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
-                            <CardTitle expand style={{color: '#fff', background: '#C5A3FF'}}>Coming Soon ...</CardTitle>
-                            <CardText>
-
-                            </CardText>
-                            <CardActions border>
-                                <Button href="/" colored></Button>
-                            </CardActions>
-                    </Card>
                     </Cell>
                 </Grid>
 

@@ -72,6 +72,9 @@ img {
   font-size: 150%;
   line-height: 200%;
 }
+.article-text .center {
+  text-align: center;
+}
 
 .franchise-links {
   text-align: center;
@@ -106,7 +109,7 @@ img {
 }
 .competitions #complink {
   font-family: 'Lora', serif;
-  text-decoration: none;
+  text-decoration: underline;
   color: black;
 }
 .competitions #icons {

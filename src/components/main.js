@@ -30,6 +30,7 @@ import Review2018 from './media/2019/review2018';
 import Predictions2019 from './media/2019/predictions2019';
 import Kmishdraft2019 from './media/2019/kmishdraft2019';
 import Week12019 from './media/2019/week1review';
+import Week3of2019 from './media/2019/week3';
 
 
 const Main = () => (
@@ -62,6 +63,7 @@ const Main = () => (
         <Route exact path="/predictions2019" component={Predictions2019} />
         <Route exact path="/kmishdraft2019" component={Kmishdraft2019} />
         <Route exact path="/2019/week1" component={Week12019} />
+        <Route exact path="/2019/week3" component={Week3of2019} />
     </Switch>
 )
 
