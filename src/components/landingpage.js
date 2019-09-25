@@ -92,7 +92,7 @@ class Landing extends Component {
                     </a></div></Cell>
                     <Cell col={3}><div><i class="fa fa-star no-star"></i></div><div><a href="/crockett">
                     <Chip>
-                        <ChipContact className="mdl-color--yellow mdl-color-text--white">C</ChipContact>
+                        <ChipContact className="mdl-color--gray mdl-color-text--white">G</ChipContact>
                         Crockett
                     </Chip>
                     </a></div></Cell>
@@ -156,7 +156,7 @@ class Landing extends Component {
                     </a></div></Cell>
                     <Cell col={3}><div><i class="fa fa-star no-star"></i></div><div><a href="/scott&james">
                     <Chip>
-                        <ChipContact className="mdl-color--amber mdl-color-text--white">TPC</ChipContact>
+                        <ChipContact className="mdl-color--yellow mdl-color-text--white">TPC</ChipContact>
                         Scott & James
                     </Chip>
                     </a></div></Cell>
