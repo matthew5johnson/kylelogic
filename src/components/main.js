@@ -18,6 +18,7 @@ import LandingPage from './landingpage';
 import MWM from './mwm';
 import RecordBook from './recordbook';
 import Media from './media';
+import Test from './test';
 
 import Comps from './competitions/comps';
 import Playoffs from './competitions/playoffs';
@@ -32,12 +33,14 @@ import Kmishdraft2019 from './media/2019/kmishdraft2019';
 import Week12019 from './media/2019/week1review';
 import Week3of2019 from './media/2019/week3';
 import Week4of2019 from './media/2019/week4';
+import Week5of2019 from './media/2019/week5';
 
 
 const Main = () => (
     <Switch>
         <Route exact path="/" component={LandingPage} />
         <Route exact path="/media" component={Media} />
+        <Route exact path="/test" component={Test} />
         <Route exact path="/recordbook" component={RecordBook} />
 
         <Route exact path="/blake" component={Blake} />
@@ -66,6 +69,7 @@ const Main = () => (
         <Route exact path="/2019/week1" component={Week12019} />
         <Route exact path="/2019/week3" component={Week3of2019} />
         <Route exact path="/2019/week4" component={Week4of2019} />
+        <Route exact path="/2019/week5" component={Week5of2019} />
     </Switch>
 )
 
