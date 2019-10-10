@@ -10,6 +10,7 @@ class Media extends Component {
                 <h2>2019</h2>
                 <h3>Articles and Podcasts</h3>
                 <List>
+                    <ListItem>(Week 6) 10/10: <a href="/2019/week6">Week 5 Recap & Week 6 Intro</a></ListItem>
                     <ListItem>(Week 5) 10/2: <a href="/2019/week5">#RivalryWeek</a></ListItem>
                     <ListItem>(Week 4) 9/25: <a href="/2019/week4">Week 3 Recap & Week 4 Intro</a></ListItem>
                     <ListItem>(Week 3) 9/19: <a href="/2019/week3">Week 2 Recap & Week 3 Intro</a></ListItem>
