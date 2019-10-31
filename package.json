@@ -10,7 +10,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.0",
     "nodemon": "1.19.4",
-    "eslint-utils": ">=1.4.1"
+    "eslint-utils": ">=1.4.3"
   },
   "scripts": {
     "start": "PORT=80 react-scripts start",
