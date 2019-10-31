@@ -122,7 +122,7 @@ class Week9of2019 extends Component {
 <br></br>
 <h2>Week 9 Matchups</h2>
 <br></br>
-<p><h3>Mitch (4-4) vs RTRO (1-7):</h3> Even 1 League Cup Point would keep Mitch in the hunt at the top of the Table. As for the Playoff Standings, ever win is critical down the stretch, especially with the murky tier of 10ish Playoff contenders. I guess Gardner Minshew III will be leading the Mitch franchise into battle. Gotta like his chances.</p>
+<p><h3>Mitch (4-4) vs RTRO (1-7):</h3> Even 1 League Cup Point would keep Mitch in the hunt at the top of the Table. As for the Playoff Standings, every win is critical down the stretch, especially with the murky tier of 10ish Playoff contenders. I guess Gardner Minshew III will be leading the Mitch franchise into battle. Gotta like his chances.</p>
 <br></br>
 <p><h3>Gaudet & Cameron (4-4) vs Blake (4-4):</h3> Reeeaaally big Playoff implications here. This is the definition of a stratification matchup. Neither squad has anyone of note on BYE, so we get good on good. Impossible to pick a winner here in what could very well be a playoff prelude.</p>
 <br></br>
