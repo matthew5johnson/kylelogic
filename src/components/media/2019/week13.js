@@ -14,7 +14,7 @@ class Week13of2019 extends Component {
                         <h3>#RivalryWeek</h3>
 <br></br>
 <br></br>
-<p>Congratulations to the Kyle franchise for its first ever Playoff qualification! DTTW is now on the biggest stage. Crockett loses his bet and has already paid up. Welcome to the DTTW golden era.</p>
+<p>Congratulations to the Kyle franchise for its first ever Playoff qualification! DTTW is now on the biggest stage. Crockett loses his bet and has already paid up. DTTW enters prosperous times.</p>
 <p>Three franchises have mathematically qualified for the Playoffs: Matt & Ross, Scott & James, and Kyle</p>
 <p>Doug and RTRO are the only two that are mathematically eliminated. Kmish and Crockett would need a lot to happen, including to make up a 90 point and 190 point differential to win tiebreakers against the lowest scoring six win teams.</p>
 <p>With the late collapse of TPC and TBH and corresponding surge from FHLC contenders, the League Cup Table all of the sudden has 6 franchises that could hoist the Cup at the end of this weekend. The lowest theoretical FHLC winner would have had 25 Points. This year could be the lowest scoring/closest we ever see.</p>
@@ -29,7 +29,7 @@ class Week13of2019 extends Component {
 
 <h4>Matt & Ross vs Crockett</h4>
 <p>Matt & Ross can lock up a Playoff bye in a loss as long as they don't let Kyle outscore them by more than 114 points this week. A Butler win locks them into a bye.</p>
-<p>The Butlers are amazingly a single Point off of TPC at the top of the FHLC Table. The FHLC tiebreaker is total fanstasy points scored, which the Butlers hold by 40 points over TPC right now. But Matt & Ross will be jumped by any of the 4 teams below them who post a 3-Point result this week if the Butlers only get a 1-Point result. The FHLC is as good as it gets right now. Matt & Ross could be 3 Points away from winning their first hardware since 2012.</p>
+<p>The Butlers are amazingly a single Point off of TPC at the top of the FHLC Table. The FHLC tiebreaker is total fantasy points scored, which the Butlers hold by 40 points over TPC right now. But Matt & Ross will be jumped by any of the 4 teams below them who post a 3-Point result this week if the Butlers only get a 1-Point result. The FHLC is as good as it gets right now. Matt & Ross could be 3 Points away from winning their first hardware since 2012.</p>
 <p>Crockett has to do everything possible to stay in his current #10 seed. A loss coupled with a Doug win this week would move Crockett down to the #11 seed where he would enter Consolation Ladder quicksand that we discussed last week. Avoiding being a bottom-2 seed is critical.</p>
 <br></br>
 
@@ -56,7 +56,6 @@ class Week13of2019 extends Component {
 <p>A Joseph & Mike victory puts them into the Playoffs as long as Gaudet & Cameron don't outscore them by 150. They're also only 2 Points off the top of the FHLC Table and well within striking distance in potential tiebreakers.</p>
 <p>But mayhem ensues if Nick & Mickey can pull it off this week.</p>
 <p>The complicating factor is that Nick & Mickey have more points-scored than 6-win TBH and ZJs, and are only 50 points away from catching Blake. If Nick & Mickey can beat Joseph & Mike, and Mitch can beat Gaudet & Cameron, Nick & Mickey could end up being as high as a #5 seed!</p>
-<p>On the FHLC Table, if Blake notches 3 Points and TPC gets 0 Points, Blake currently holds the points-scored tiebreaker between the two (and every other FHLC contender except for Matt & Ross). There are numerous scenarios in which Blake could raise the League Cup.</p>
 <br></br>
 
 <h4>Kfish vs Doug</h4>
@@ -137,7 +136,6 @@ class Week13of2019 extends Component {
 <h2>Storylines from Last Week</h2>
 <br></br>
 <ul>
-    <li><p></p></li>
     <li><p>The Butlers lead the league in scoring this season at 132.8 PPG. A Diamond Season (140+ PPG) is probably off the table barring a postseason run for the ages.</p></li>
     <li><p>Matt & Ross have scored 347.1 points in their two meetings against Blake this season.</p></li>
     <li><p>And in doing so, set a franchise record win-streak. 6 wins in a row stands alone as the new high mark for the Butlers.</p></li>
