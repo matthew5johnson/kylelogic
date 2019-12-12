@@ -43,6 +43,7 @@ import Week11of2019 from './media/2019/week11';
 import Week12of2019 from './media/2019/week12';
 import Week13of2019 from './media/2019/week13';
 import Week14of2019 from './media/2019/week14';
+import Week15of2019 from './media/2019/week15';
 
 
 const Main = () => (
@@ -88,6 +89,7 @@ const Main = () => (
         <Route exact path="/2019/week12" component={Week12of2019} />
         <Route exact path="/2019/week13" component={Week13of2019} />
         <Route exact path="/2019/week14" component={Week14of2019} />
+        <Route exact path="/2019/week15" component={Week15of2019} />
     </Switch>
 )
 
