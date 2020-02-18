@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "homepage": "http://www.kylelogic.com",
   "private": true,
+  "engines": {
+    "npm": "6.9.0",
+    "node": "8.10.0"
+  },
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -13,9 +17,9 @@
     "eslint-utils": ">=1.4.1"
   },
   "scripts": {
-    "start": "PORT=80 react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
